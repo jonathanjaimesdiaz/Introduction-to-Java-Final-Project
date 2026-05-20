@@ -15,4 +15,4 @@ The BlackJack Casino program is a menu-based casino game where the user can crea
 - Methods that accept and return values
 - Proper naming conventions (camelCase, UpperCamelCase, ALL_CAPS)
 
-## How to Run on NetBeans 
+Code in Player and Blackjack 
